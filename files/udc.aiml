@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+   <category>
+      <pattern>Какой клуб стал чемпионом этого сезона?</pattern>
+      <template>Чемпионом этого сезона стал клуб <random><li>Реал Мадрид</li><li>Барселона</li><li>Манчестер Сити</li></random>.</template>
+   </category>
+   
+   <category>
+      <pattern>Кто стал лучшим бомбардиром Чемпионата Мира?</pattern>
+      <template>Лучшим бомбардиром Чемпионата Мира был <random><li>Криштиану Роналду</li><li>Лионель Месси</li><li>Гарри Кейн</li></random>.</template>
+   </category>
+   
+   <category>
+      <pattern>Где пройдет следующий Чемпионат Европы?</pattern>
+      <template>Следующий Чемпионат Европы пройдет в <random><li>Франции</li><li>Германии</li><li>Италии</li></random>.</template>
+   </category>
+   
+   <category>
+      <pattern>Какой клуб является самым титулованным в истории Лиги Чемпионов?</pattern>
+      <template>Самым титулованным клубом в истории Лиги Чемпионов является <random><li>Реал Мадрид</li><li>Бавария</li><li>Милан</li></random>.</template>
+   </category>
+
+</aiml>
